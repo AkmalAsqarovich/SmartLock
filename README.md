@@ -12,7 +12,6 @@ NFC karta orqali eshikni boshqaruvchi va har bir kirishni bulutda saqlovchi tizi
 
 **Smart Lock** — ESP32 mikrokontrolleri va PN532 NFC moduli asosida ishlab chiqilgan aqlli kirish nazorat tizimi. Foydalanuvchi NFC kartasini skanerga yaqinlashtirganida tizim uni tekshiradi, eshikni ochadi va bu voqeani bulut serverida qayd etadi. Admin esa web panel orqali istalgan joydan kirishlarni kuzatib borishi mumkin.
 
-Loyiha **TATU "Eng yaxshi oliy ta'lim ixtirochisi"** respublika tanlovida **Sun'iy intellekt va IT** yo'nalishi bo'yicha taqdim etilgan.
 
 ---
 
