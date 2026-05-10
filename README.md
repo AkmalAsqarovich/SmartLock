@@ -118,8 +118,10 @@ Keyin Arduino IDE orqali ESP32 ga yuklang.
 
 ---
 ## Videolar:
-https://youtube.com/shorts/3wD6ktwxtIk?si=JrrxngOk08a1cbgV    //uzb versiyasi
-https://youtube.com/shorts/ixccWTziQWg?si=zYgDLOjXJnUNCZsh    //eng versiyasi
+//uzb versiyasi
+https://youtube.com/shorts/3wD6ktwxtIk?si=JrrxngOk08a1cbgV    
+//eng versiyasi
+https://youtube.com/shorts/ixccWTziQWg?si=zYgDLOjXJnUNCZsh    
 
 
 ## 👤 Muallif
