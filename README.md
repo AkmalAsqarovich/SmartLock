@@ -1,2 +1,0 @@
-# SmartLock
-Hardware+Software 
