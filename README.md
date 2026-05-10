@@ -121,6 +121,5 @@ Keyin Arduino IDE orqali ESP32 ga yuklang.
 
 ## 👤 Muallif
 
-**TATU — Toshkent Axborot Texnologiyalari Universiteti**  
-Tanlov: *"Eng yaxshi oliy ta'lim ixtirochisi"* — Respublika bosqichi, 2026  
-Yo'nalish: Sun'iy intellekt va IT
+Abduraimov Akmal TATU KIF 1-kurs talabasi
+2026
