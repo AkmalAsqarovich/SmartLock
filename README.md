@@ -117,6 +117,10 @@ Keyin Arduino IDE orqali ESP32 ga yuklang.
 - 🏥 Shifoxona bo'limlari
 
 ---
+## Videolar:
+https://youtube.com/shorts/3wD6ktwxtIk?si=JrrxngOk08a1cbgV    //uzb versiyasi
+https://youtube.com/shorts/ixccWTziQWg?si=zYgDLOjXJnUNCZsh    //eng versiyasi
+
 
 ## 👤 Muallif
 
